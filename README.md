@@ -19,7 +19,7 @@ A modern web browser that supports JavaScript.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Astrand_Web_Html.git
+    git clone https://github.com/oldoc63/Astrand_Web_Html.git
     cd Astrand_Web_Html
     ```
 2.  Open the `public/index.html` file in your web browser.
